@@ -1,0 +1,28 @@
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\bin\Debug\UIAPI.dll
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\bin\Debug\UIAPI.pdb
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\UIAPI.csprojResolveAssemblyReference.cache
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\Options.baml
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\UserControl1.baml
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\UserControl2.baml
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\UserControl3.baml
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\Options.g.cs
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\UserControl1.g.cs
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\UserControl2.g.cs
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\OptionsDialog\UserControl3.g.cs
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\UIAPI_MarkupCompile.cache
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\UIAPI.g.resources
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\Revit.SDK.Samples.UIAPI.CS.FurnitureFamilyDragAndDropForm.resources
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\Revit.SDK.Samples.UIAPI.CS.PreviewModel.resources
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\Revit.SDK.Samples.UIAPI.CS.Properties.Resources.resources
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\UIAPI.csproj.GenerateResource.Cache
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\UIAPI.dll
+C:\Revit 2017-1 SDK\Samples\UIAPI\CS\obj\Debug\UIAPI.pdb
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\bin\Debug\UIAPI.dll
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\bin\Debug\RevitOBJExport.dll
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\obj\Debug\Revit.SDK.Samples.UIAPI.CS.FurnitureFamilyDragAndDropForm.resources
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\obj\Debug\Revit.SDK.Samples.UIAPI.CS.Properties.Resources.resources
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\obj\Debug\UIAPI.csproj.GenerateResource.Cache
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\obj\Debug\UIAPI.dll
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\obj\Debug\UIAPI.pdb
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\bin\Debug\UIAPI.pdb
+E:\RND\GitHub\VRLauncherRevit\CanaryRevitShelf\CS\obj\Debug\UIAPI.csprojResolveAssemblyReference.cache

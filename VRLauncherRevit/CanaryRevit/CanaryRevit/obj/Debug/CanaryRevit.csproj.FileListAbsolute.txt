@@ -1,0 +1,5 @@
+E:\RND\Launchpad\CanaryRevit\CanaryRevit\bin\Debug\CanaryRevit.dll
+E:\RND\Launchpad\CanaryRevit\CanaryRevit\bin\Debug\CanaryRevit.pdb
+E:\RND\Launchpad\CanaryRevit\CanaryRevit\obj\Debug\CanaryRevit.csprojResolveAssemblyReference.cache
+E:\RND\Launchpad\CanaryRevit\CanaryRevit\obj\Debug\CanaryRevit.dll
+E:\RND\Launchpad\CanaryRevit\CanaryRevit\obj\Debug\CanaryRevit.pdb
